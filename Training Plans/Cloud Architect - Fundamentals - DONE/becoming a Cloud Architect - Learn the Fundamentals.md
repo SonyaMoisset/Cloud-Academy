@@ -1,0 +1,20 @@
+# Becoming a Cloud Architect - Learn the Fundamentals - DONE
+- What is a Cloud Architect and is Being a Cloud Architect the Right Role For You?
+- Pre-Test: Becoming a Cloud Architect - Fundamentals
+- What is Cloud Computing?
+- Web Fundamentals
+- Fundamentals of Web Page Development
+- Exam: Becoming a Cloud Architect - Fundamentals (1 of 3)
+- Introduction to DevOps
+- Introduction to Containers
+- Basics of Using Containers in Production
+- Exam: Becoming a Cloud Architect - Fundamentals (2 of 3)
+- Creating a Highly Available Campaign Website - Scenario
+- Deploy a Highly Available Serverlerss Application Using AWS Service
+- Cloud Migration Strategy Considerations
+- Internal Business Effects of the Cloud
+- Getting Started With Migrating to the Cloud
+- Choosing a Cloud Migration Strategy - Infographic
+- Exam: Becoming a Cloud Architect - Fundamentals (3 of 3)
+- Post-Test: Becoming a Cloud Architect - Fundamentals
+-> Certificate of Excellenece received
