@@ -1,1 +1,1 @@
-# CloudAcademy
+# Cloud Academy Training
