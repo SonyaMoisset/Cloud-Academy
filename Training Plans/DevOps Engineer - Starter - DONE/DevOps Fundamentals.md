@@ -7,3 +7,4 @@
 - Introduction to Operations
 - Monitor Like a DeOps Pro: Build A Log Aggregation System in AWS
 - Final Exam: DevOps Fundamentals
+-> Certificate of Excellence received

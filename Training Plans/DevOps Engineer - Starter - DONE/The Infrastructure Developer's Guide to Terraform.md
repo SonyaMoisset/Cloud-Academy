@@ -1,0 +1,18 @@
+# The Infrastructure Developer's Guide to Terraform: AWS Edition
+- Installing Terraform on Windows and Linux
+- Deploying Infrastructure with Terraform
+- Creating Terraform Configuration with Implicit Dependencies
+- Creating Variables in terraform Configurations
+- Using Provisioners with Terraform
+- Exploring Terraform State
+- Using Terraform Remote State
+- Creating Reusable Infrastructure with Terraform Modules
+- Importing Existing Infrastructure into Terraform
+- Integrating Conditional Logic into terraform Configurations
+- Creating Loops in Terraform and Scaling Resources
+- Keeping Terraform Remote State DRY with Terragrunt
+- Passing Outputs Between Terraform Modules with Terragrunt
+- Creating DRY Terraform Environments with Terragrunt
+- Testing Terraform Code with Terratest
+- Deploy EC2 with Terraform Challenge
+-> Certificate of Excellence received
